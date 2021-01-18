@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Casey Friday</h1>
-<h3 align="center">A tinkerer with a passion for solving puzzles, and writing efficient code.</h3>
+<h3 align="center">A tinkerer with a passion for solving puzzles and writing efficient code.</h3>
 
 - 🔭 I’m currently working on [Cyberpunk2077 Companion](https://github.com/fridaynext/cp2077-companion)
 
