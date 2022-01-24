@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Casey Friday</h1>
 <h3 align="center">A tinkerer with a passion for solving puzzles and writing efficient code.</h3>
 
-- 🔭 I’m currently working on [Cyberpunk2077 Companion](https://github.com/fridaynext/cp2077-companion)
+- 🔭 I’m currently working on my jobby job.
 
 - 👨‍💻 All of my projects are available at [https://friday-next.com](https://friday-next.com)
 
-- 💬 Ask me about **Java, Spring, Blockchain, Privacy, Security**
+- 💬 Ask me about **PHP, CakePHP, Javascript, Blockchain, Privacy, Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
