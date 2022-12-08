@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on my jobby job.
 
-- 👨‍💻 All of my projects are available at [https://friday-next.com](https://friday-next.com)
-
-- 💬 Ask me about **PHP, CakePHP, Javascript, Blockchain, Privacy, Security**
+- 💬 Ask me about **PHP, CakePHP, Javascript, Java, Spring, Blockchain, Privacy, Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
