@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my jobby job.
 
-- 💬 Ask me about **PHP, CakePHP, Javascript, Java, Spring, Blockchain, Privacy, Security**
+- 💬 Ask me about **PHP, CakePHP, Go, Javascript, Java, Spring, Blockchain, Devops, Privacy, Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
