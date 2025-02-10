@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Casey Friday</h1>
 <h3 align="center">A tinkerer with a passion for solving puzzles and writing efficient code.</h3>
 
-- 🔭 I’m currently working on my jobby job.
+- I'm currently a free agent!
 
 - 💬 Ask me about **PHP, CakePHP, Go, Javascript, Java, Spring, Blockchain, Devops, Privacy, Security**
 
